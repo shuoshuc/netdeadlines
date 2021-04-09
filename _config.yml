@@ -1,15 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Networking Conference Deadlines # (Maintained by @albertgranalcoz)
+# email: galberto@ethz.ch
+description: Countdowns to top Networking conference deadlines
+author: Albert Gran Alcoz
 
-domain: "aideadlin.es"
+domain: "justpapers.herokuapp.com"
 baseurl: ""
 
-twitter_username: abhshkdz
+twitter_username: albertgran
 twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+github_username: albertgranalcoz
+github_repo: net-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
