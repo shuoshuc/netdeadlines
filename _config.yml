@@ -9,7 +9,7 @@ baseurl: "/netdeadlines"
 twitter_username: albertgran
 twitter_hashtag: machinelearning
 github_username: albertgranalcoz
-github_repo: net-deadlines
+github_repo: netdeadlines
 
 markdown: kramdown
 
