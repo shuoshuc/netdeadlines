@@ -3,8 +3,8 @@ title: Networking Conference Deadlines # (Maintained by @albertgranalcoz)
 description: Countdowns to top Networking conference deadlines
 author: Albert Gran Alcoz
 
-domain: "https://albertgranalcoz.github.io/net-deadlines/"
-baseurl: ""
+domain: "albertgranalcoz.github.io/net-deadlines/"
+baseurl: "/net-deadlines"
 
 twitter_username: albertgran
 twitter_hashtag: machinelearning
@@ -12,6 +12,5 @@ github_username: albertgranalcoz
 github_repo: net-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
 
 include: ['_pages']
