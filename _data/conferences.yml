@@ -206,7 +206,7 @@
 - title: ACM CCS First
   hindex: 00
   year: 2021
-  id: ccs2021
+  id: ccsfirst2021
   link: https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
   deadline: '2021-01-20 23:59:00'
   timezone: UTC-12
@@ -217,14 +217,14 @@
 - title: ACM CCS Second
   hindex: 00
   year: 2021
-  id: ccs2021
+  id: ccssecond2021
   link: https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
   deadline: '2021-05-06 23:59:00'
   timezone: UTC-12
   date: November 14-19, 2021
   place: Seoul, South Korea
   sub: NS
-  
+
 - title: ACM IMC
   hindex: 00
   year: 2021
