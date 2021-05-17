@@ -1,6 +1,6 @@
 ---
 
-- title: IROS
+- title: ACM SIGCOMM
   hindex: 58
   year: 2021
   id: iros21
@@ -9,9 +9,9 @@
   timezone: America/Los_Angeles
   date: Sep 27-Oct 1, 2021
   place: Prague, Czech Republic
-  sub: NP NS CC VF ML DC
+  sub: RO
 
-- title: RSS
+- title: USENIX NSDI
   hindex: 47
   year: 2021
   id: rss21
@@ -20,9 +20,9 @@
   timezone: UTC-12
   date: Jul 12-16, 2021
   place: Online
-  sub: NP NS CC VF ML DC
+  sub: RO
 
-- title: MICCAI
+- title: USENIX SECURITY
   hindex: 46
   year: 2021
   id: miccai2021

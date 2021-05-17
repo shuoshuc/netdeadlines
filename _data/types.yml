@@ -1,13 +1,13 @@
 ---
 - name: Network Programmability
-  sub: NP
-- name: Network Security
-  sub: NS
-- name: Congestion Control
-  sub: CC
-- name: Verification
-  sub: VF
-- name: Machine Learning
   sub: ML
+- name: Network Security
+  sub: CV
+- name: Congestion Control
+  sub: NLP
+- name: Verification
+  sub: RO
+- name: Machine Learning
+  sub: SP
 - name: Data Center
-  sub: DC
+  sub: DM
