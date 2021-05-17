@@ -191,3 +191,36 @@
   date: February 27-March 3, 2022
   place: San Diego, California
   sub: NS
+
+- title: ACM SOSR
+  hindex: 00
+  year: 2021
+  id: sosr2021
+  link: https://conferences.sigcomm.org/sosr/2021/calls.html
+  deadline: '2021-06-11 00:00:00'
+  timezone: UTC-12
+  date: September 20-21, 2021
+  place: Virtual
+  sub: NET
+
+- title: ACM CCS First
+  hindex: 00
+  year: 2021
+  id: ccs2021
+  link: https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
+  deadline: '2021-01-20 23:59:00'
+  timezone: UTC-12
+  date: November 14-19, 2021
+  place: Seoul, South Korea
+  sub: NS
+
+- title: ACM CCS Second
+  hindex: 00
+  year: 2021
+  id: ccs2021
+  link: https://www.sigsac.org/ccs/CCS2021/call-for-papers.html
+  deadline: '2021-05-06 23:59:00'
+  timezone: UTC-12
+  date: November 14-19, 2021
+  place: Seoul, South Korea
+  sub: NS
