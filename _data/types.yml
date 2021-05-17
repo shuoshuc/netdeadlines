@@ -1,13 +1,7 @@
 ---
-- name: Network Programmability
-  sub: ML
+- name: Networking
+  sub: NET
 - name: Network Security
-  sub: CV
-- name: Congestion Control
-  sub: NLP
-- name: Verification
-  sub: RO
+  sub: NS
 - name: Machine Learning
-  sub: SP
-- name: Data Center
-  sub: DM
+  sub: ML
