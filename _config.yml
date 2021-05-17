@@ -7,10 +7,12 @@ domain: "netdeadlines.com"
 baseurl: ""
 
 twitter_username: albertgran
-twitter_hashtag: machinelearning
+twitter_hashtag: networking
+
 github_username: albertgranalcoz
 github_repo: netdeadlines
 
 markdown: kramdown
+ga_id: G-X2P0WXEN1V
 
 include: ['_pages']
