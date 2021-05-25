@@ -236,3 +236,47 @@
   date: November 2-4, 2021
   place: Virtual
   sub: NET
+
+- title: PETS First
+  hindex: 00
+  year: 2022
+  id: petsfirst2022
+  link: https://petsymposium.org/cfp22.php
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC-12
+  date: July 18–23, 2022
+  place: Sydney, Australia
+  sub: PR
+
+- title: PETS Second
+  hindex: 00
+  year: 2022
+  id: petssecond2022
+  link: https://petsymposium.org/cfp22.php
+  deadline: '2021-08-31 23:59:59'
+  timezone: UTC-12
+  date: July 18–23, 2022
+  place: Sydney, Australia
+  sub: PR
+
+- title: PETS Third
+  hindex: 00
+  year: 2022
+  id: petsthird2022
+  link: https://petsymposium.org/cfp22.php
+  deadline: '2021-11-30 23:59:59'
+  timezone: UTC-12
+  date: July 18–23, 2022
+  place: Sydney, Australia
+  sub: PR
+
+- title: PETS Fourth
+  hindex: 00
+  year: 2022
+  id: petsfourth2022
+  link: https://petsymposium.org/cfp22.php
+  deadline: '2022-02-28 23:59:59'
+  timezone: UTC-12
+  date: July 18–23, 2022
+  place: Sydney, Australia
+  sub: PR

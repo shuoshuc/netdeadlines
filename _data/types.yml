@@ -3,5 +3,5 @@
   sub: NET
 - name: Network Security
   sub: NS
-- name: Machine Learning
-  sub: ML
+- name: Privacy
+  sub: PR
