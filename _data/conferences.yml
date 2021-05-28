@@ -280,3 +280,36 @@
   date: July 18–23, 2022
   place: Sydney, Australia
   sub: PR
+
+- title: USENIX SECURITY Summer
+  hindex: 00
+  year: 2022
+  id: usenixsecsummer2022
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2021-06-08 23:59:00'
+  timezone: UTC-12
+  date: August 10–12, 2022
+  place: Boston, MA, USA
+  sub: NS
+
+- title: USENIX SECURITY Fall
+  hindex: 00
+  year: 2022
+  id: usenixsecfall2022
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2021-10-12 23:59:00'
+  timezone: UTC-12
+  date: August 10–12, 2022
+  place: Boston, MA, USA
+  sub: NS
+
+- title: USENIX SECURITY Winter
+  hindex: 00
+  year: 2022
+  id: usenixsecwinter2022
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
+  deadline: '2022-02-01 23:59:00'
+  timezone: UTC-12
+  date: August 10–12, 2022
+  place: Boston, MA, USA
+  sub: NS
