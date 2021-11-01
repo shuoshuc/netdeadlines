@@ -13,10 +13,10 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - ACM IMC:                                      [https://conferences.sigcomm.org/imc/2021/](https://conferences.sigcomm.org/imc/2021/)
 - USENIX ATC:                                [https://www.usenix.org/conference/atc21](https://www.usenix.org/conference/atc21)
 - ACM HotNets (Workshop):         [https://conferences.sigcomm.org/hotnets/2021/](https://conferences.sigcomm.org/hotnets/2021/)
-- USENIX HotCloud (Workshop):  [https://www.usenix.org/conference/hotcloud20](https://www.usenix.org/conference/hotcloud20) (suspended)
-- ACM SIGCOMM NetAI (Workshop): [https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html](https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html) (discontinued)
 - P4 Workshop (Workshop): [https://opennetworking.org/2021-p4-workshop-content/](https://opennetworking.org/2021-p4-workshop-content/)
 - EURO P4 (Workshop): [https://opennetworking.org/2021-p4-workshop-in-europe/](https://opennetworking.org/2021-p4-workshop-in-europe/)
+- USENIX HotCloud (Workshop):  [https://www.usenix.org/conference/hotcloud20](https://www.usenix.org/conference/hotcloud20) (suspended)
+- ACM SIGCOMM NetAI (Workshop): [https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html](https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html) (discontinued)
 
 **Network security:**
 
@@ -24,8 +24,8 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - NDSS Symposium (Internet Society):   [https://www.ndss-symposium.org/ndss2021/](https://www.ndss-symposium.org/ndss2021/)
 - IEEE S&P:                                                  [https://www.ieee-security.org/TC/SP2021/](https://www.ieee-security.org/TC/SP2021/)
 - ACM CCS:                                                 [https://www.sigsac.org/ccs/CCS2021/](https://www.sigsac.org/ccs/CCS2021/)
-- USENIX HotSec (Summit):  [https://www.usenix.org/conference/hotsec20](https://www.usenix.org/conference/hotsec20) (suspended)
 - ACM SIGCOMM SPIN (Workshop): [https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html](https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html)
+- USENIX HotSec (Summit):  [https://www.usenix.org/conference/hotsec20](https://www.usenix.org/conference/hotsec20) (suspended)
 
 **Privacy:**
 
