@@ -337,3 +337,25 @@
   date: August 22-26, 2022
   place: Amsterdam, Netherlands
   sub: NET
+
+- title: ACM CCS First
+  hindex: 00
+  year: 2022
+  id: ccsfirst2022
+  link: https://www.sigsac.org/ccs/CCS2022/call-for-papers.html
+  deadline: '2022-01-14 23:59:00'
+  timezone: UTC-12
+  date: November 14-19, 2022
+  place: Los Angeles, USA
+  sub: NS
+
+- title: ACM CCS Second
+  hindex: 00
+  year: 2022
+  id: ccssecond2022
+  link: https://www.sigsac.org/ccs/CCS2022/call-for-papers.html
+  deadline: '2022-05-02 23:59:00'
+  timezone: UTC-12
+  date: November 14-19, 2022
+  place: Los Angeles, USA
+  sub: NS
