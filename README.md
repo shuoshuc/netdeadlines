@@ -15,8 +15,6 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - ACM HotNets (Workshop):         [https://conferences.sigcomm.org/hotnets/2021/](https://conferences.sigcomm.org/hotnets/2021/)
 - P4 Workshop (Workshop): [https://opennetworking.org/2021-p4-workshop-content/](https://opennetworking.org/2021-p4-workshop-content/)
 - EURO P4 (Workshop): [https://opennetworking.org/2021-p4-workshop-in-europe/](https://opennetworking.org/2021-p4-workshop-in-europe/)
-- USENIX HotCloud (Workshop):  [https://www.usenix.org/conference/hotcloud20](https://www.usenix.org/conference/hotcloud20) (suspended)
-- ACM SIGCOMM NetAI (Workshop): [https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html](https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html) (discontinued)
 
 **Network security:**
 
@@ -25,12 +23,15 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - IEEE S&P:                                                  [https://www.ieee-security.org/TC/SP2021/](https://www.ieee-security.org/TC/SP2021/)
 - ACM CCS:                                                 [https://www.sigsac.org/ccs/CCS2021/](https://www.sigsac.org/ccs/CCS2021/)
 - ACM SIGCOMM SPIN (Workshop): [https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html](https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html)
-- USENIX HotSec (Summit):  [https://www.usenix.org/conference/hotsec20](https://www.usenix.org/conference/hotsec20) (suspended)
 
 **Privacy:**
 
 - PETS: [https://petsymposium.org/](https://petsymposium.org/)
 
+**Legacy:**
+- <s>USENIX HotCloud (Workshop):  [https://www.usenix.org/conference/hotcloud20](https://www.usenix.org/conference/hotcloud20)</s> (suspended)
+- <s>ACM SIGCOMM NetAI (Workshop): [https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html](https://conferences.sigcomm.org/sigcomm/2020/workshop-netai.html)</s> (discontinued)
+- <s>USENIX HotSec (Summit):  [https://www.usenix.org/conference/hotsec20](https://www.usenix.org/conference/hotsec20)</s> (suspended)
 
 ## Contributing
 
