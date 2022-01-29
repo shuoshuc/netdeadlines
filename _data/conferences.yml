@@ -359,3 +359,107 @@
   date: November 14-19, 2022
   place: Los Angeles, USA
   sub: NS
+
+- title: ACM WiSec
+  hindex: 00
+  year: 2022
+  id: wisec2022
+  link: https://wisec2022.cs.utsa.edu/call-for-papers/
+  deadline: '2022-02-02 23:59:00'
+  timezone: UTC-12
+  date: May 16-19, 2022
+  place: San Antonio, Texas, USA
+  sub: NS
+
+- title: ACM WiSeML
+  hindex: 00
+  year: 2022
+  id: wiseml2022
+  link: https://wisec2022.cs.utsa.edu/wiseml2022/
+  deadline: '2022-02-15 23:59:00'
+  timezone: UTC-12
+  date: May 19, 2022
+  place: San Antonio, Texas, USA
+  sub: ML
+
+- title: ACM SOSP
+  hindex: 00
+  year: 2021
+  id: sosp2021
+  link: https://sosp2021.mpi-sws.org/cfp.html
+  abstract_deadline: '2021-04-30 14:59:00'
+  deadline: '2021-05-07 14:59:00'
+  timezone: UTC-8
+  date: October 26-29, 2021
+  place: Virtual
+  sub: OS
+
+- title: ACM SIGMETRICS Winter
+  hindex: 00
+  year: 2022
+  id: sigmetricswinter2022
+  link: https://www.sigmetrics.org/sigmetrics2022/call_for_papers.html
+  abstract_deadline: '2022-01-26 11:59:00'
+  deadline: '2022-02-02 11:59:00'
+  timezone: UTC-5
+  date: June 6-10, 2022
+  place: Virtual + Mumbai, India
+  sub: NET
+
+- title: ACM SIGMETRICS Summer
+  hindex: 00
+  year: 2022
+  id: sigmetricssummer2022
+  link: https://www.sigmetrics.org/sigmetrics2022/call_for_papers.html
+  abstract_deadline: '2021-08-04 11:59:00'
+  deadline: '2021-08-11 11:59:00'
+  timezone: UTC-5
+  date: June 6-10, 2022
+  place: Virtual + Mumbai, India
+  sub: NET
+
+- title: ACM SIGMETRICS Fall
+  hindex: 00
+  year: 2022
+  id: sigmetricsfall2022
+  link: https://www.sigmetrics.org/sigmetrics2022/call_for_papers.html
+  abstract_deadline: '2021-10-13 11:59:00'
+  deadline: '2021-10-20 11:59:00'
+  timezone: UTC-5
+  date: June 6-10, 2022
+  place: Virtual + Mumbai, India
+  sub: NET
+
+- title: USENIX OSDI
+  hindex: 00
+  year: 2022
+  id: osdi2022
+  link: https://www.usenix.org/conference/osdi22/call-for-papers
+  abstract_deadline: '2021-12-07 14:59:00'
+  deadline: '2021-12-14 14:59:00'
+  timezone: UTC-8
+  date: July 11-13, 2022
+  place: Carlsbad, California
+  sub: OS
+
+- title: MLSys
+  hindex: 00
+  year: 2022
+  id: mlsys2022
+  link: https://mlsys.org/Conferences/2022/CallForPapers
+  deadline: '2021-10-15 20:00:00'
+  timezone: UTC+0
+  date: August 29-September 1, 2022
+  place: Santa Clara, California
+  sub: ML
+
+- title: MLSys Workshops
+  hindex: 00
+  year: 2022
+  id: mlsysworkshops2022
+  link: https://mlsys.org/Conferences/2022/CallForWorkshops
+  deadline: '2022-04-18 17:00:00'
+  timezone: UTC-8
+  date: August 29-September 1, 2022
+  place: Santa Clara, California
+  sub: ML
