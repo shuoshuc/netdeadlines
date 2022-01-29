@@ -463,3 +463,14 @@
   date: August 29-September 1, 2022
   place: Santa Clara, California
   sub: ML
+
+- title: ICLR PAIR2Struct Workshop
+  hindex: 00
+  year: 2022
+  id: pair2struct2022
+  link: https://pair2struct-workshop.github.io/
+  deadline: '2022-02-26 12:00:00'
+  timezone: UTC+0
+  date: April 29, 2022
+  place: Virtual
+  sub: ML
