@@ -5,3 +5,7 @@
   sub: NS
 - name: Privacy
   sub: PR
+- name: Machine Learning
+  sub: ML
+- name: Operating Systems
+  sub: OS
