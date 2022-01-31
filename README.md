@@ -25,6 +25,7 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - ACM CCS:                                                 [https://www.sigsac.org/ccs/CCS2021/](https://www.sigsac.org/ccs/CCS2021/)
 - ACM SIGCOMM SPIN (Workshop): [https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html](https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html)
 - ACM WiSec: [https://wisec2022.cs.utsa.edu/](https://wisec2022.cs.utsa.edu/)
+- IEEE Symposium on Security and Privacy: [https://www.ieee-security.org/TC/SP2023/](https://www.ieee-security.org/TC/SP2023/)
 
 **Privacy:**
 
