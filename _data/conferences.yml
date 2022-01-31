@@ -475,10 +475,10 @@
   place: Virtual
   sub: ML
 
-- title: IEEE Symposium on Security and Privacy - First Deadline
+- title: IEEE S&P - First Deadline
   hindex: 00
   year: 2023
-  id: ssp2023
+  id: spfirst2023
   link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
   deadline: '2022-04-01 23:59:59'
   timezone: UTC-12
@@ -486,10 +486,10 @@
   place: San Francisco, California
   sub: NS
 
-- title: IEEE Symposium on Security and Privacy - Second Deadline
+- title: IEEE S&P - Second Deadline
   hindex: 00
   year: 2023
-  id: ssp2023
+  id: spsecond2023
   link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
   deadline: '2022-08-19 23:59:59'
   timezone: UTC-12
@@ -497,10 +497,10 @@
   place: San Francisco, California
   sub: NS
 
-- title: IEEE Symposium on Security and Privacy - Third Deadline
+- title: IEEE S&P- Third Deadline
   hindex: 00
   year: 2023
-  id: ssp2023
+  id: spthird2023
   link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
   deadline: '2022-12-08 23:59:59'
   timezone: UTC-12
