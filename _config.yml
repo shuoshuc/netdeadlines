@@ -1,18 +1,16 @@
-title: Networking Conference Deadlines # (Maintained by @albertgranalcoz)
-# email: galberto@ethz.ch
+title: Networking Conference Deadlines
 description: Countdowns to top Networking conference deadlines
-author: Albert Gran Alcoz
+author: Shawn Chen
 
-domain: "netdeadlines.com"
+domain: ""
 baseurl: ""
 
-twitter_username: albertgran
-twitter_hashtag: networking
+twitter_username: fasthumanrouter
 
-github_username: albertgranalcoz
+github_username: shuoshuc
 github_repo: netdeadlines
 
 markdown: kramdown
-ga_id: G-X2P0WXEN1V
+ga_id: UA-199966931-2
 
 include: ['_pages']
