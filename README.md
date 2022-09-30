@@ -14,7 +14,6 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 - USENIX ATC:                                [https://www.usenix.org/conference/atc21](https://www.usenix.org/conference/atc21)
 - ACM HotNets (Workshop):         [https://conferences.sigcomm.org/hotnets/2021/](https://conferences.sigcomm.org/hotnets/2021/)
 - ACM SIGMETRICS: [https://www.sigmetrics.org/sigmetrics2022/call_for_papers.html](https://www.sigmetrics.org/sigmetrics2022/call_for_papers.html)
-- ACM EuroSys: [https://2023.eurosys.org/](https://2023.eurosys.org/)
 
 **Network security:**
 
@@ -25,6 +24,7 @@ Countdown timers to keep track of a bunch of networking conference deadlines.
 
 - ACM SOSP: [https://sosp2021.mpi-sws.org/](https://sosp2021.mpi-sws.org/)
 - USENIX OSDI: [https://www.usenix.org/conference/osdi22](https://www.usenix.org/conference/osdi22)
+- ACM EuroSys: [https://2023.eurosys.org/](https://2023.eurosys.org/)
 
 ## Contributing
 
