@@ -342,9 +342,9 @@
   year: 2024
   id: nsdifall2024
   link: https://www.usenix.org/conference/nsdi24
-  abstract_deadline: '2023-09-07 23:59:59'
-  deadline: '2023-09-14 23:59:59'
-  timezone: UTC+0
+  abstract_deadline: '2023-09-14 23:59:59'
+  deadline: '2023-09-21 23:59:59'
+  timezone: UTC-5
   date: Apr 16-18, 2024
   place: Santa Clara, CA
   sub: NET
