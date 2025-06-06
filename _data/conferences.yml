@@ -23,14 +23,14 @@
   place: Renton, WA
   sub: NET
 
-- title: ACM SOSP
+- title: ACM HotNets
   hindex: 00
   year: 2025
-  id: sosp2025
-  link: https://sigops.org/s/conferences/sosp/2025/index.html
-  abstract_deadline: '2025-04-10 23:59:59'
-  deadline: '2025-04-17 23:59:59'
+  id: hotnets2025
+  link: https://conferences.sigcomm.org/hotnets/2025/
+  abstract_deadline: '2025-07-01 23:59:59'
+  deadline: '2025-07-01 23:59:59'
   timezone: UTC+8
-  date: Oct 13-16, 2025
-  place: Seoul, Republic of Korea
-  sub: OS
+  date: Nov 17-18, 2025
+  place: College Park, Maryland, USA
+  sub: NET
