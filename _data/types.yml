@@ -1,7 +1,7 @@
 ---
 - name: Networking
   sub: NET
-- name: Network Security
-  sub: NS
 - name: Operating Systems
   sub: OS
+- name: Architecture
+  sub: ARCH
