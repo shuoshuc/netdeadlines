@@ -47,7 +47,7 @@
   place: Seattle, WA
   sub: OS
 
-  - title: EAI WICON
+- title: EAI WICON
   hindex: 00
   year: 2025
   id: wicon2025
@@ -58,3 +58,26 @@
   date: Dec 5, 2025
   place: Istanbul, Turkey
   sub: NET
+
+- title: EAI ADHOCNETS
+  hindex: 00
+  year: 2025
+  id: adhocnets2025
+  link: https://adhocnets.eai-conferences.org/2025/
+  description: 16th EAI International Conference on Ad Hoc Networks
+  abstract_deadline: '2025-10-20 23:59:59'
+  deadline: '2025-10-20 23:59:59'
+  timezone: UTC+3
+  date: Dec 4 - 5, 2025
+  place: Istanbul, Turkey
+  sub: NET
+
+
+
+
+
+
+
+
+
+  
