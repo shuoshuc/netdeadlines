@@ -22,3 +22,15 @@
   date: Aug ??-??, 2026
   place: Denver, CO
   sub: NET
+
+- title: USENIX NSDI
+  hindex: 00
+  year: 2027
+  id: nsdi2027fall
+  link: https://www.usenix.org/conference/nsdi27
+  abstract_deadline: '2026-09-10 23:59:59'
+  deadline: '2026-09-17 23:59:59'
+  timezone: UTC-4
+  date: May 11-13, 2027
+  place: Providence, RI
+  sub: NET
